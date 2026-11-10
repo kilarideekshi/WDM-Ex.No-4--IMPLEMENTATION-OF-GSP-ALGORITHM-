@@ -192,7 +192,8 @@ Dataset:
 ```
 Output: 
  
- <img width="1091" height="579" alt="image" src="https://github.com/user-attachments/assets/d9a0be35-7a80-491c-b38f-19512b6b320a" />
+<img width="422" height="682" alt="image" src="https://github.com/user-attachments/assets/985cf67e-37ac-48f1-ab2b-9646899ace17" />
+
 
  
  
